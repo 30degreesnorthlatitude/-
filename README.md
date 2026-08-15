@@ -2,7 +2,7 @@
 
 ## 【这是什么】
 
-一个浏览器端汉化插件包（`dsh-locale-zh`），把 DeepSeek Harness Web 界面中硬编码为英文的部分汉化成简体中文，包括：
+一个浏览器端汉化插件包（` dsh-locale-zh `），把 DeepSeek Harness Web 界面中硬编码为英文的部分汉化成简体中文，包括：
 
 - 权限选择器：只读 / 工作区写入 / 完全访问 / 自定义（含描述）
 - 斜杠命令描述：`/plan`、`/model`、`/feedback`、`/compact`、`/goal`、`/permission`、`/export`
